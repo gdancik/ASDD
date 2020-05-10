@@ -5,10 +5,10 @@ permalink: /notes/
 order: 1
 exclude_from_nav: false
 ---
-* [Overview and Web Scraping Notes]({{ site.baseurl }}/files/AdmittedStudents.pdf)
-* [Python Script: Intro.py]({{ site.baseurl }}/files/Intro.py)
-* [Python Script: WebScrapingDemo.py]({{ site.baseurl }}/files/WebScrapingDemo.py)
-* [Python Script: WeatherScraper.py]({{ site.baseurl }}/files/WeatherScraper.py)
+
+* [Web Scraping Notes]({{ site.baseurl }}/files/AdmittedStudentsWebScraping.pdf)
+* [Anaconda Installation]({{ site.baseurl }}/files/Anaconda.pdf)
+* [Web Scraping Notebook]({{ site.baseurl }}/files/webscraper.ipynb)
 
 {% comment %}
 {% endcomment %}
