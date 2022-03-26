@@ -6,10 +6,16 @@ order: 1
 exclude_from_nav: false
 ---
 
-* [Computer Science Overview]({{ site.baseurl }}/files/AdmittedStudents.pdf)
-* [Web Scraping Notes]({{ site.baseurl }}/files/AdmittedStudentsWebScraping.pdf)
+* [Computer Science Overview]({{ site.baseurl }}/files/AdmittedStudentsIntro.pdf)
+* [Neural Network Notes]({{ site.baseurl }}/files/ANN.pdf)
+* [Machine Learning with Python Notebook]({{ site.baseurl }}/files/mlp.ipynb)
+
+<hr style = 'color:maroon; height:2px;'>
+
 * [Anaconda Installation]({{ site.baseurl }}/files/Anaconda.pdf)
-* [Web Scraping Notebook]({{ site.baseurl }}/files/webscraper.ipynb)
 
 {% comment %}
+* [Web Scraping Notes]({{ site.baseurl }}/files/AdmittedStudentsWebScraping.pdf)
+* [Web Scraping Notebook]({{ site.baseurl }}/files/webscraper.ipynb)
+
 {% endcomment %}
